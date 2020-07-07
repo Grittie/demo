@@ -1,0 +1,32 @@
+/* body{
+    max-width: 25%;
+    background-image: url("../images/background.png");
+} */
+
+.card {
+    max-width: 25%;
+}
+
+#gun {
+    max-width: 80%;
+}
+
+.error {
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+html { 
+    background: url(../images/background.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+#bitlogo {
+    position: absolute;
+    max-width: 25%;
+    top: 15%;
+    right: 45%;
+}
